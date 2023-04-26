@@ -1,0 +1,6 @@
+export const SCHEDULER_LOADING_DATA = "schedulerloadingdata"
+export const SCHEDULER_DATA_DID_LOAD = "schedulerdatadidload"
+export const SCHEDULER_DATA_DID_CLEAR = "schedulerdatadidclear"
+export const SCHEDULER_DATA_DID_FAIL_TO_LOAD = "schedulerdatadidfailtoload"
+export const SCHEDULER_UNDO = "schedulerundo"
+export const SCHEDULER_REDO = "schedulerredo"
