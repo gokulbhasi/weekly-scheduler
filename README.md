@@ -29,7 +29,7 @@ Afternoon-Parking-Lot-X-------X---------X-----------X-------X
 
 Load
 
-Staff Member- Monday- Tuesday- Wednesday- Thursday-Friday-Totals
+Staff Member - Monday - Tuesday-Wednesday-Thursday-Friday-Totals
 
 -----X1----------Y--------Y--------Y---------Y-------Y-------YY
 
@@ -42,7 +42,7 @@ Staff Member- Monday- Tuesday- Wednesday- Thursday-Friday-Totals
 -----X5----------Y--------Y--------Y---------Y-------Y-------YY
 
 -----X6----------Y--------Y--------Y---------Y-------Y-------YY
-
+    
     
 For the Schedule section, fields labelled X allow display and selection of a staff member for a
 time slot / shift
