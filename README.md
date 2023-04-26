@@ -4,28 +4,44 @@ following.
 
 Schedule
 
-                   Monday  Tuesday  Wednesday   Thursday  Friday
-Morning UpStairs      X       X         X           X       X
-Morning Down Stairs   X       X         X           X       X
-Morning Parking Lot   X       X         X           X       X
-Lunch A               X       X         X           X       X
-Lunch B               X       X         X           X       X
-Lunch C               X       X         X           X       X
-Lunch D               X       X         X           X       X
-Afternoon Up Stairs   X       X         X           X       X
-Afternoon Down Stairs X       X         X           X       X
-Afternoon Parking Lot X       X         X           X       X
+-------------------Monday--Tuesday--Wednesday---Thursday--Friday
+
+Morning-UpStairs------X-------X---------X-----------X-------X
+
+Morning-Down-Stairs---X-------X---------X-----------X-------X
+
+Morning-Parking-Lot---X-------X---------X-----------X-------X
+
+Lunch A---------------X-------X---------X-----------X-------X
+
+Lunch B---------------X-------X---------X-----------X-------X
+
+Lunch C---------------X-------X---------X-----------X-------X
+
+Lunch D---------------X-------X---------X-----------X-------X
+
+Afternoon-Up-Stairs---X-------X---------X-----------X-------X
+
+Afternoon-Down-Stairs-X-------X---------X-----------X-------X
+
+Afternoon-Parking-Lot-X-------X---------X-----------X-------X
+
 
 Load
 
-Staff Member Monday Tuesday Wednesday Thursday Friday Totals
-    X1          Y      Y        Y         Y       Y     YY
-    X2          Y      Y        Y         Y       Y     YY
-    X3          Y      Y        Y         Y       Y     YY
-    X4          Y      Y        Y         Y       Y     YY
-    X5          Y      Y        Y         Y       Y     YY
-    X6          Y      Y        Y         Y       Y     YY
-    X7          Y      Y        Y         Y       Y     YY
+Staff Member - Monday - Tuesday-Wednesday-Thursday-Friday-Totals
+
+-----X1----------Y--------Y--------Y---------Y-------Y-------YY
+
+-----X2----------Y--------Y--------Y---------Y-------Y-------YY
+
+-----X3----------Y--------Y--------Y---------Y-------Y-------YY
+
+-----X4----------Y--------Y--------Y---------Y-------Y-------YY
+
+-----X5----------Y--------Y--------Y---------Y-------Y-------YY
+
+-----X6----------Y--------Y--------Y---------Y-------Y-------YY
     
     
 For the Schedule section, fields labelled X allow display and selection of a staff member for a
